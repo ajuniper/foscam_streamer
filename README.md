@@ -17,4 +17,5 @@ References:
 * https://www.openipcam.com/files/Manuals/Bseries_VideoAudioAccessProtocol.pdf
 
 Todo:
-* better argument
+* better argument parsing
+* support multiple concurrent streams
